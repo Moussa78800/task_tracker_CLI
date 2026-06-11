@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "description": "Acheter des légumes et du pain",
+        "status": "todo",
+        "createdAt": "2026-06-11T13:27:02.551042",
+        "updatedAt": "2026-06-11T13:30:52.293955"
+    },
+    {
+        "id": 3,
+        "description": "Coder le projet CLI",
+        "status": "todo",
+        "createdAt": "2026-06-11T13:30:32.104520",
+        "updatedAt": "2026-06-11T13:30:32.104520"
+    },
+    {
+        "id": 4,
+        "description": "Acheter des courses",
+        "status": "todo",
+        "createdAt": "2026-06-11T13:30:45.419327",
+        "updatedAt": "2026-06-11T13:30:45.419327"
+    }
+    
+]
